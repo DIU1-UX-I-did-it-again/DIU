@@ -29,6 +29,7 @@ Miembros
 -----
 
 >>>  Con este documento hemos podido establecer unos objetivos claros que nos motiven a hacer este estudio. Además, hemos especificado las herramientas que vamos a utilizar para evaluar la usabilidad y poder encontrar posibles mejoras. Entre ellas, podemos destacar la etnografía y las encuestas de usabilidad. Nos centraremos en mejorar la utilidad, aprendizaje, satisfacción y persuasión del diseño del sitio web, ya que son cruciales a la hora de obtener unos beneficios. Con todo esto y habiendo analizado los posibles clientes de la web a evaluar, procederemos con cada una de las partes de este estudio. 
+>>>  Enlace al archivo: [User Research Plan](P1/User%20Research%20Plan.pdf).
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
@@ -40,11 +41,11 @@ Miembros
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
->>> Persona 1 - Lara: Hemos decidido representar a una estudiante de 21 años ya que representa una gran parte del público potencial de dicha empresa. Es usual que los estudiantes busquen actividades diferentes con las que poder despejarse y salir de la rutina. Por ello mismo, hemos decidido que era importante incluir una persona de estas características en nuestro estudio. 
+>>> **Persona 1 - Lara**: Hemos decidido representar a una estudiante de 21 años ya que representa una gran parte del público potencial de dicha empresa. Es usual que los estudiantes busquen actividades diferentes con las que poder despejarse y salir de la rutina. Por ello mismo, hemos decidido que era importante incluir una persona de estas características en nuestro estudio. 
 
 ![Persona 1 - Lara](img/Persona1-Lara.png)
 
->>> Persona 2 - Lucas: Como segunda persona, decidimos representar a Lucas Petrov, un asistente de biblioteca de 35 años apasionado por la literatura. Lucas sufre síndrome de Asperger, lo que dificulta su integración social en diferentes ámbitos, como los grupos de teatro. Ya ha tenido experiencias negativas en este aspecto, y se siente un poco reticente ante la idea de volver a intentarlo, pero es consciente de que si encuentra una buena compañía que ofrezca contenidos adaptados a sus necesidades, su capacidad de interacción social y su ansiedad ante situaciones en las que pueda estar condicionado por su síndrome disminuirán.
+>>> **Persona 2 - Lucas**: Como segunda persona, decidimos representar a Lucas Petrov, un asistente de biblioteca de 35 años apasionado por la literatura. Lucas sufre síndrome de Asperger, lo que dificulta su integración social en diferentes ámbitos, como los grupos de teatro. Ya ha tenido experiencias negativas en este aspecto, y se siente un poco reticente ante la idea de volver a intentarlo, pero es consciente de que si encuentra una buena compañía que ofrezca contenidos adaptados a sus necesidades, su capacidad de interacción social y su ansiedad ante situaciones en las que pueda estar condicionado por su síndrome disminuirán.
 
 ![Persona 2 - Lucas](img/Persona2-Lucas.png)
 
@@ -52,17 +53,16 @@ Miembros
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
-
->>> Journey map Lara: Este journey map representa el procedimiento de cómo reservar una entrada para un espectáculo del Espacio La Estupenda. Como hemos podido observar, 
+>>> [Journey Map Lara](P1/Persona%201%20-%20Lara%20con%20su%20Journey%20Map.pdf): Este journey map representa el procedimiento de cómo reservar una entrada para un espectáculo del Espacio La Estupenda. Como hemos podido observar, 
 al intentar reservar la entrada para el espectáculo, Lara no consigue hacerlo ya que no se encuentra disponible la venta de entradas en ese momento. Esto muestra que la página está desactualizada y no ofrece los servicios que promete. 
 
->>> Journey map Lucas: El journey map de Lucas representa su intento - fructífero tras algunas decepciones - de reservar un curso de Iniciación a lmprovisación. Consideramos que es interesante ya que evidencia lo ortopédico del proceso de reserva, que necesariamente ha de realizarse mediante formularios, la poca información relativa a la inclusión de personas con necesidades especiales que se incluye en las descripciones de los talleres, y la ansiedad que puede provocar el hecho de no recibir una respuesta inmediata la hora de reservar, ya que siquiera se muestran las plazas disponibles en los talleres.
+>>> [Journey Map Lucas](P1/Persona%202%20-%20Lucas%20con%20su%20Journey%20Map.pdf): El journey map de Lucas representa su intento - fructífero tras algunas decepciones - de reservar un curso de Iniciación a lmprovisación. Consideramos que es interesante ya que evidencia lo ortopédico del proceso de reserva, que necesariamente ha de realizarse mediante formularios, la poca información relativa a la inclusión de personas con necesidades especiales que se incluye en las descripciones de los talleres, y la ansiedad que puede provocar el hecho de no recibir una respuesta inmediata la hora de reservar, ya que siquiera se muestran las plazas disponibles en los talleres.
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
 
 >>> - Enlace al documento:  [Usability Review](P1/Usability%20review%20-%20La%20Estupenda.xlsx%20-%20Usability%20scores.pdf)
->>> - Valoración final (numérica): 63 - Moderate
+>>> - Valoración final (numérica): 63 - Moderate.
 >>> - Comentario sobre la valoración:  Nuestro análisis de la web del Espacio La Estupenda identifica áreas críticas a mejorar. La barra de navegación carece de consistencia, dificultando la búsqueda de información. Para reservar cursos, los usuarios se ven obligados a completar un formulario de contacto y esperar una respuesta, en lugar de ofrecer un método de reserva directa. Además, la interfaz de la tienda online, junto con algunas de sus funciones, como la creación de cuentas de usuario, presenta discrepancias con el resto del sitio, lo que puede causar confusión entre los usuarios. La visualización de eventos sin entradas disponibles resulta poco clara. La lentitud del sitio y la falta de opción para crear una cuenta directamente son preocupaciones adicionales. Consideramos que se requiere una revisión integral para garantizar una experiencia de usuario más fluida y satisfactoria.
 
 ## Paso 2. UX Design  
