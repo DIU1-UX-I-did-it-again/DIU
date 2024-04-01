@@ -71,6 +71,8 @@ al intentar reservar la entrada para el espectáculo, Lara no consigue hacerlo y
 ![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ----
 
+>>> Malla receptora de información (enlace al archivo: [Feedback Capture Grid](P2/Malla%20receptora%20de%20información.pdf)).
+
 ![Malla](P2/feedback-capture-grid.png)
   
     
@@ -83,10 +85,32 @@ al intentar reservar la entrada para el espectáculo, Lara no consigue hacerlo y
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+>>> Propuesta de valor (enlace al archivo: [Scope Canvas](P2/scope_canvas.pdf).)
+
+![Propuesta de valor](P2/scope-canvas.png)
+
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
+
+>>> Task Analysis (enlace al archivo: [Scope Canvas](P2/scope_canvas.pdf)).
+
+![Task analysis](P2/task-analysis.png)
+
+>>> User Flow 1: "Crear una nueva cuenta" (enlace al archivo: [User Flow 1](P2/user-flow1.pdf)).
+
+![Task analysis](P2/user-flow1.png)
+
+
+>>> User Flow 2: "Añadir un nuevo curso" (enlace al archivo: [User Flow 2](P2/user-flow2.pdf)).
+
+![Task analysis](P2/user-flow2.png)
+
+
+>>> User Flow 3: "Apuntarse a un curso" (enlace al archivo: [User Flow 3](P2/user-flow3.pdf)).
+
+![Task analysis](P2/user-flow3.png)
+
 
 >>> Definir "User Map" y "Task Flow" ... 
 
@@ -94,6 +118,10 @@ al intentar reservar la entrada para el espectáculo, Lara no consigue hacerlo y
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
 ----
 
+
+>>> Sitemap (enlace al archivo: [Sitemap](P2/sitemap.pdf)))
+
+![Site map](P2/sitemap.png)
 
 >>> Identificar términos para diálogo con usuario  
 
