@@ -93,7 +93,7 @@ al intentar reservar la entrada para el espectáculo, Lara no consigue hacerlo y
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
 
->>> Task Analysis (enlace al archivo: [Task Analysis](P2/scope_canvas.pdf)).
+>>> Task Analysis (enlace al archivo: [Task Analysis](P2/Task%20Analysis.pdfe.pdf)).
 
 ![Task analysis](P2/task-analysis.png)
 
