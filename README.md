@@ -119,15 +119,21 @@ al intentar reservar la entrada para el espectáculo, Lara no consigue hacerlo y
 ----
 
 
->>> Sitemap (enlace al archivo: [Sitemap](P2/sitemap.pdf))
+>>> Al comienzo realizamos el siguiente Sitemap (enlace al archivo: [User flow - Site map](P2/userflow-sitemap.pdf)), que terminón convirtiéndose en una mezcla de User flow y Sitemap. Además, consideramos un ámbito demasiado amplio teniendo en cuenta el tiempo que tenemos para el desarrollo de la práctica.
 
-![Site map](P2/sitemap.png)
+![User flow - Site map](P2/userflow-sitemap.png)
 
->>> Identificar términos para diálogo con usuario  
+Por ello, incluímos además el siguiente Sitemap, que será el que consideraremos como oficial:
 
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+![Sitemap](P2/sitemap.jpg)
+
+En amarillo, se destacan las páginas que bocetaremos más adelante.
+
+>>> Identificar términos para diálogo con usuario: labelling (enlace al archivo: [Labelling](P2/labelling.pdf)).
+
+
+![Labelling1](P2/labelling1.png)
+![Labelling2](P2/labelling2.png)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
