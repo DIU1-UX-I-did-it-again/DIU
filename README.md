@@ -120,7 +120,7 @@ su inversión y su tiempo.
 ----
 
 
->>> Al comienzo realizamos el siguiente Sitemap (enlace al archivo: [User flow - Site map](P2/userflow-sitemap.pdf)), que terminón convirtiéndose en una mezcla de User flow y Sitemap. Además, consideramos un ámbito demasiado amplio teniendo en cuenta el tiempo que tenemos para el desarrollo de la práctica.
+>>> Al comienzo realizamos el siguiente Sitemap (enlace al archivo: [User flow - Site map](P2/userflow-sitemap.pdf)), que terminó convirtiéndose en una mezcla de User flow y Sitemap. Además, consideramos un ámbito demasiado amplio teniendo en cuenta el tiempo que tenemos para el desarrollo de la práctica.
 
 ![User flow - Site map](P2/userflow-sitemap.png)
 
@@ -128,7 +128,7 @@ Por ello, incluímos además el siguiente Sitemap, que será el que considerarem
 
 ![Sitemap](P2/sitemap.jpg)
 
-En amarillo, se destacan las páginas que bocetaremos más adelante.
+En amarillo, se destacan las páginas que bocetaremos.
 
 >>> Identificar términos para diálogo con usuario: labelling (enlace al archivo: [Labelling](P2/labelling.pdf)).
 
