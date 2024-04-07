@@ -102,7 +102,7 @@ al intentar reservar la entrada para el espectáculo, Lara no consigue hacerlo y
 ![Task analysis](P2/user-flow1.png)
 
 
->>> User Flow 2: "Añadir un nuevo curso" (enlace al archivo: [User Flow 2](P2/user-flow2.pdf)).
+>>> User Flow 2: "Cerrar sesión" (enlace al archivo: [User Flow 2](P2/user-flow2.pdf)).
 
 ![Task analysis](P2/user-flow2.png)
 
