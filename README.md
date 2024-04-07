@@ -76,11 +76,12 @@ al intentar reservar la entrada para el espectáculo, Lara no consigue hacerlo y
 ![Malla](P2/feedback-capture-grid.png)
   
     
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
+>>> Nuestra plataforma de cursos de programación ofrece una experiencia integral, permitiendo a los usuarios reservar cursos por una 
+tarifa accesible. Ofrecemos una amplia variedad de horarios para adaptarnos a sus necesidades, asegurando flexibilidad en la asistencia
+a clase. Priorizamos la calidad del contenido, proporcionando cursos ofrecidos por expertos en las materias. Además, organizamos eventos
+para enriquecer aún más el proceso de aprendizaje y fomentar la interacción entre los estudiantes y los profesionales de la industria. Con
+nuestra plataforma, "Hello World!", los usuarios podrán avanzar en su desarrollo profesional de manera efectiva, y aprovechando al máximo 
+su inversión y su tiempo.
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
