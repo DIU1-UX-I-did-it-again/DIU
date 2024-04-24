@@ -140,8 +140,26 @@ En amarillo, se destacan las páginas que bocetaremos.
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+>>> Para este apartado, realizamos en primer lugar dos esbozos en papel: uno para el catálogo de cursos y otro para la descripción de un curso:
 
+![Boceto_a_mano_catalogo](P2/boceto_a_mano_catalogo.jpg)
+![Boceto_a_mano_descripcion](P2/boceto_a_mano_descripcion.jpeg)
+
+>>> A continuación, utilizamos Figma para crear un modelo jerarquizado de nuestro diseño (wireframing) para ordenador, con posiciones fijas:
+
+Enlace al wireframing del catálogo: [archivo_wireframing_catalogo](P2/Wireframing%20-%20Catálogo%20de%20cursos.fig)
+![wireframing_catalogo](P2/wireframing_catalogo.png)
+
+Enlace al wireframing de la descripción del curso: [archivo_wireframing_descripcion](P2/Wireframe%20descripción%20curso.fig)
+![wireframing_descripcion](P2/wireframing_descripcion.png)
+
+>>> Una vez que tuvimos claro el diseño que queríamos desarrollar, utilizamos Figma de nuevo para replicar nuestros wireframing, pero incluyendo un diseño para table y uno para móvil, además del de ordenador. Una vez conseguimos que fuesen responsive (haciendo uso de los *constraints* Scale, y de los auto layout (Shift + A). Además, una vez diseñados los tres bocetos, hicimos uso del plugin *Breakpoints* para simular cómo se verían las transiciones entre el diseño para unas dimensiones y los demás.
+
+Enlace al wireframing *responsive* del catálogo: [archivo_wireframing_responsive_catalogo](P2/Wireframing%20Responsive%20-%20Catálogo%20de%20cursos.fig)
+![wireframing_catalogo](P2/wireframing_responsive_catalogo.jpeg)
+
+Enlace al wireframing *responsive* de la descripción del curso: [archivo_wireframing_responsive_descripcion](P2/Wireframing%20Responsive%20-%20Descripción%20del%20curso.fig)
+![wireframing_catalogo](P2/wireframing_responsive_descripcion.jpeg)
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
