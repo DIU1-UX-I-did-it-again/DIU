@@ -177,16 +177,22 @@ Enlace al wireframing *responsive* de la descripción del curso: [Archivo "wiref
 -----
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+>>>  Enlace al archivo: [MoodBoard](P3/MoodBoard.pdf).
+
+![MoodBoard](P3/MoodBoard.png)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
+Hemos realizado la versión para ordenador y la versión para móvil
 
->>> Plantear Landing Page 
+>>> Enlace al archivo: [Landing Pages](P3/LandingPages.pdf)
+
+![Landing Page ordenador](P3/Landing%20page%20ordenador.jpg)
+
+![Landing Page móvil](P3/Landing%20page%20móvil.png)
+
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
@@ -199,6 +205,14 @@ Enlace al wireframing *responsive* de la descripción del curso: [Archivo "wiref
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
+
+>>> Enlace a los frames en PDF: [Frames Layout PDF](P3/FramesLayout.pdf)
+
+>>> Enlace al vídeo tutorial del uso de nuestra interfaz: https://drive.google.com/uc?id=1Kszi9irAVQJd8Tt0whIOAk3NnKRpzO7U&export=download
+
+>>> Enlace al archivo Figma: [Layout](P3/Layout.fig)
+
+![Layout](P3/Layout.png)
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
