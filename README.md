@@ -197,14 +197,10 @@ Hemos realizado la versión para ordenador y la versión para móvil
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+>>> En nuestro proyecto de aplicación de formación de cursos de programación online, hemos implementado una serie de patrones y guías de diseño clave para mejorar la experiencia del usuario. Estos incluyen una navegación intuitiva con una navBar adaptada a dispositivos móviles, una página de Onboarding para introducir a los usuarios en la plataforma, y un Hero image con Carousel para llamar la atención del usuario. También hemos añadido un sistema de búsqueda eficiente, Wizards para guiar a los usuarios a través de procesos complejos mediante un chat, y una lista de artículos en formato de tarjetas para una fácil visualización. Cada elemento tiene su propia página de detalles con acciones específicas y un sistema de confirmación de pago. Además, hemos implementado pantallas de registrar y login amigables y una página donde poder ver su perfil y sus cursos actuales.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
-
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
-
 
 >>> Enlace a los frames en PDF: [Frames Layout PDF](P3/FramesLayout.pdf)
 
