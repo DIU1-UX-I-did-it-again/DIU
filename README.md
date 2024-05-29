@@ -231,46 +231,46 @@ Hemos realizado la versión para ordenador y la versión para móvil
 
 >>> De nuestros cuatro usuarios ficticios, los dos primeros (Lucía y Marcos) han evaluado el proyecto A (nuestra página web) y los otros dos (Lorena y Álvaro) han evaluado la página web del club de rap. Para llevar a cabo la evaluación de forma más realista, el usuario Marcos está inspirado en el compañero de piso de uno de los integrantes del grupo, y Álvaro en el padre del otro integrante.
 
-![Usuarios ficticios](P5/usuarios-ficticios.png)
+![Usuarios ficticios](P4/usuarios-ficticios.png)
 
 
 ![Método UX](img/eye-tracking.png) 4.c Resultados del Eye Tracking
 ----
 
-Para evaluar el diseño de las páginas web mediante Eye Tracking hemos mostrado a los diferentes usuarios una pantalla de cada una de las aplicaciones mencionadas, tanto la página web de los cursos de programación como la del club de rap. Los resultados pueden verse en la sección "RESULTADO DEL EYE TRACKING" del documento que contiene la P5, el cual puedes encontrar [aquí](P5/P5.pdf).
+Para evaluar el diseño de las páginas web mediante Eye Tracking hemos mostrado a los diferentes usuarios una pantalla de cada una de las aplicaciones mencionadas, tanto la página web de los cursos de programación como la del club de rap. Los resultados pueden verse en la sección "RESULTADO DEL EYE TRACKING" del documento que contiene la P4, el cual puedes encontrar [aquí](P4/P4.pdf).
 
 ### Heat maps de la propuesta A
 
-![Heat_map_Lucia](P5/heat-map-lucia.png)
+![Heat_map_Lucia](P4/heat-map-lucia.png)
 
-![Heat_map_Marcos](P5/heat-map-marcos.png)
+![Heat_map_Marcos](P4/heat-map-marcos.png)
 
 ### Heat maps de la propuesta B
 
-![Heat_map_Lorena](P5/heat-map-lorena.png)
+![Heat_map_Lorena](P4/heat-map-lorena.png)
 
-![Heat_map_Alvaro](P5/heat-map-alvaro.png)
+![Heat_map_Alvaro](P4/heat-map-alvaro.png)
 
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
 
->>> Puede encontrar el cuestionario SUS en el archivo que contiene el desarrollo de la P5, el cual puedes encontrar [aquí](P5/P5.pdf).
+>>> Puede encontrar el cuestionario SUS en el archivo que contiene el desarrollo de la P4, el cual puedes encontrar [aquí](P4/P4.pdf).
 
 
-![SUS_Lucia](P5/SUS_Lucia.png)
+![SUS_Lucia](P4/SUS_Lucia.png)
 
 >>> Lucía evaluó la aplicación de “Hello World”. Su evaluación muestra que la aplicación es generalmente fácil de usar y bien integrada, con funciones claras y consistentes. Sin embargo, Lucía encontró la aplicación un poco complicada y siente que necesitaría apoyo técnico para navegarla. A pesar de estos desafíos, se siente confiada en su uso y cree que otros también aprenderían rápidamente. Su puntuación total en la SUS fue de 87.5, indicando una buena usabilidad.
 
-![SUS_Marcos](P5/SUS_Marcos.png)
+![SUS_Marcos](P4/SUS_Marcos.png)
 
 >>> Marcos evaluó la aplicación de “Hello World”. Con una puntuación de 95, Marcos encontró que la aplicación es fácil de usar, bien integrada y que inspira confianza. Sin embargo, notó algunas inconsistencias y cierta complejidad innecesaria. A pesar de estos puntos, cree que la mayoría de las personas aprenderían rápidamente a utilizarla y le gustaría visitarla con frecuencia.
 
-![SUS_Lorena](P5/SUS_Lorena.png)
+![SUS_Lorena](P4/SUS_Lorena.png)
 
 >>> Las respuestas de Lorena indican que, a pesar de ser una niña de 8 años, encontró la aplicación del club de rap bastante manejable y entretenida. Aunque percibió cierta complejidad y necesidad de aprender, su puntaje general sugiere que se sintió cómoda explorando la aplicación y siguiendo a su artista favorito. Gracias a una interfaz intuitiva, una niña pudo navegar por ella con escasos conocimientos en la tecnología. 
 
-![SUS_Alvaro](P5/SUS_Alvaro.png)
+![SUS_Alvaro](P4/SUS_Alvaro.png)
 
 >>> Álvaro evaluó la aplicación del club de rap. Aunque expresó confianza en su manejo y percepción de que la mayoría podría aprender a usarla rápidamente, encontró problemas de complejidad y necesidad de apoyo experto. Reconoció el valor de revivir sus días como rapero y mantenerse informado, pero señaló que la aplicación podría mejorar en accesibilidad y consistencia.
 
@@ -319,12 +319,12 @@ Se aplicaron diversas técnicas de evaluación de usabilidad, incluyendo:
 
 #### Test de usuarios: Participantes
 
-![Usuarios](P5/usuarios-ficticios.png)
+![Usuarios](P4/usuarios-ficticios.png)
 
 
 #### Resultados obtenidos
 
-Los resultados obtenidos se reflejan en el documento [P5](P5/P5.pdf), incluyendo las conclusiones de los resultados del Eye Tracking (heat maps) y los resultados de los cuestionarios SUS para cada uno de los usuarios.
+Los resultados obtenidos se reflejan en el documento [P4](P4/P4.pdf), incluyendo las conclusiones de los resultados del Eye Tracking (heat maps) y los resultados de los cuestionarios SUS para cada uno de los usuarios.
 
 
 
