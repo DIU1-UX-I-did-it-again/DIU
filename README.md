@@ -214,39 +214,8 @@ Hemos realizado la versión para ordenador y la versión para móvil
 -----
 
 
->>> Publicar my Case Study en Github..
+>>> Publicar my Case Study en Github.
 >>> Documente y resuma el diseño de su producto
-
-
-## Paso 5. Exportación & evaluación con Eye Tracking 
-
-Exportación a HTML/Flutter
------
-
-![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
-
->>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
-
-Diseño del experimento 
-----
-
->> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
->> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
-
-
-![experimento](img/experimentoET.png)  
->> cambiar img por tu diseño de experimento  
-
->> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
-
-Resultados y valoración 
------
-
-
-
->> Cambiar por tus resultados
-![Resultado](img/resultadoET.png)  
-
 
 
 ## Paso 4. Evaluación 
@@ -255,45 +224,163 @@ Resultados y valoración
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
 
-
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
-
+>>> A nuestro equipo se le ha asignado la evaluación de DIU1_ChanguitosSaltarines (https://github.com/DIU1/DIU1.ChanguitosSaltarines), que propone una página web para un club de rap que oferta servicios relacionados con eventos, estudios musicales, artistas, música, etc.
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
+>>> De nuestros cuatro usuarios ficticios, los dos primeros (Lucía y Marcos) han evaluado el proyecto A (nuestra página web) y los otros dos (Lorena y Álvaro) han evaluado la página web del club de rap. Para llevar a cabo la evaluación de forma más realista, el usuario Marcos está inspirado en el compañero de piso de uno de los integrantes del grupo, y Álvaro en el padre del otro integrante.
 
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+![Usuarios ficticios](P5/usuarios-ficticios.png)
+
+
+![Método UX](img/eye-tracking.png) 4.c Resultados del Eye Tracking
+----
+
+Para evaluar el diseño de las páginas web mediante Eye Tracking hemos mostrado a los diferentes usuarios una pantalla de cada una de las aplicaciones mencionadas, tanto la página web de los cursos de programación como la del club de rap. Los resultados pueden verse en la sección "RESULTADO DEL EYE TRACKING" del documento que contiene la P5, el cual puedes encontrar [aquí](P5/P5.pdf).
+
+### Heat maps de la propuesta A
+
+![Heat_map_Lucia](P5/heat-map-lucia.png)
+
+![Heat_map_Marcos](P5/heat-map-marcos.png)
+
+### Heat maps de la propuesta B
+
+![Heat_map_Lorena](P5/heat-map-lorena.png)
+
+![Heat_map_Alvaro](P5/heat-map-alvaro.png)
 
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
 ----
 
->>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
-http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
+>>> Puede encontrar el cuestionario SUS en el archivo que contiene el desarrollo de la P5, el cual puedes encontrar [aquí](P5/P5.pdf).
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
 
+![SUS_Lucia](P5/SUS_Lucia.png)
+
+>>> Lucía evaluó la aplicación de “Hello World”. Su evaluación muestra que la aplicación es generalmente fácil de usar y bien integrada, con funciones claras y consistentes. Sin embargo, Lucía encontró la aplicación un poco complicada y siente que necesitaría apoyo técnico para navegarla. A pesar de estos desafíos, se siente confiada en su uso y cree que otros también aprenderían rápidamente. Su puntuación total en la SUS fue de 87.5, indicando una buena usabilidad.
+
+![SUS_Marcos](P5/SUS_Marcos.png)
+
+>>> Marcos evaluó la aplicación de “Hello World”. Con una puntuación de 95, Marcos encontró que la aplicación es fácil de usar, bien integrada y que inspira confianza. Sin embargo, notó algunas inconsistencias y cierta complejidad innecesaria. A pesar de estos puntos, cree que la mayoría de las personas aprenderían rápidamente a utilizarla y le gustaría visitarla con frecuencia.
+
+![SUS_Lorena](P5/SUS_Lorena.png)
+
+>>> Las respuestas de Lorena indican que, a pesar de ser una niña de 8 años, encontró la aplicación del club de rap bastante manejable y entretenida. Aunque percibió cierta complejidad y necesidad de aprender, su puntaje general sugiere que se sintió cómoda explorando la aplicación y siguiendo a su artista favorito. Gracias a una interfaz intuitiva, una niña pudo navegar por ella con escasos conocimientos en la tecnología. 
+
+![SUS_Alvaro](P5/SUS_Alvaro.png)
+
+>>> Álvaro evaluó la aplicación del club de rap. Aunque expresó confianza en su manejo y percepción de que la mayoría podría aprender a usarla rápidamente, encontró problemas de complejidad y necesidad de apoyo experto. Reconoció el valor de revivir sus días como rapero y mantenerse informado, pero señaló que la aplicación podría mejorar en accesibilidad y consistencia.
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+
+# Usability Report
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF017nhV-TFmNER2OM8UbXtdN6xwAKBYrv0i6onNfKu6Yn0BV0RK6aiOroeXl73LSY-B0&usqp=CAU" alt="usability Download png" style="zoom:50%;" />
+
+#### Evaluación de usabilidad del proyecto 
+
+### (Club de rap )
+
+### (28/05/2024)
+
+[Enlace a GITHUB del proyecto]
+https://github.com/DIU1/DIU1.ChanguitosSaltarines
+
+
+### Realizado por:
+
+[Informe realizado por Equipo UX!I-did-it-again]
+
+
+## 1 DESCRIPCIÓN DEL WEBSITE
+
+[Incluir un breve resumen el propósito de la App]
+
+El principal objetivo de la aplicación es conseguir una comunidad de personas aficcionadas al rap, es decir, un club de rap. Esta aplicación ofrece eventos a los que los usuarios pueden asistir. Además ofrece apartados de artistas, música, cursos y estudios para reservar. 
+
+
+## 2 RESUMEN EJECUTIVO
+
+Este documento contiene una evaluación de la usabilidad de la aplicación del club de rap. Se resumen los problemas detectados y se proponen mejoras para optimizar la experiencia del usuario. Los principales problemas identificados incluyen la complejidad de la navegación, la falta de variedad en la funcionalidad y la necesidad de soporte adicional para algunos usuarios.
+
+
+## 3 METODOLOGIA 
+
+#### Metodología de usabililidad
+
+Se aplicaron diversas técnicas de evaluación de usabilidad, incluyendo:
+
+    - Sesiones de prueba de usuario: Los participantes interactuaron con la aplicación para completar tareas específicas.
+    - Cuestionarios SUS (System Usability Scale): Se recogieron respuestas de usuarios para obtener un puntaje de usabilidad.
+    - Eyetracking: Se utilizó para analizar el patrón de mirada y las áreas de interés.
+
+#### Test de usuarios: Participantes
+
+![Usuarios](P5/usuarios-ficticios.png)
+
+
+#### Resultados obtenidos
+
+Los resultados obtenidos se reflejan en el documento [P5](P5/P5.pdf), incluyendo las conclusiones de los resultados del Eye Tracking (heat maps) y los resultados de los cuestionarios SUS para cada uno de los usuarios.
 
 
 
->>> Valoración personal 
+## 4 CONCLUSIONES 
+
+La prueba de usabilidad ha sido reveladora y ha proporcionado información valiosa sobre la experiencia de los usuarios con la aplicación. Aunque la idea y las funciones ofrecidas han sido bien recibidas, especialmente la posibilidad de seguir a artistas favoritos y asistir a eventos, se han identificado varias áreas que requieren mejoras.
+
+
+## Aspectos positivos:
+
+1. La integración de múltiples servicios en una sola plataforma ha sido muy apreciada.
+2. La consistencia en el diseño ha sido destacada positivamente.
+
+## Áreas a mejorar:
+
+1. Algunas funciones no fueron intuitivas, lo que hizo que los usuarios necesitaran más tiempo o ayuda para navegar.
+2. Se percibe la falta de ayuda experta.
+3. La funcionalidad de la página parece escasa.
+
+## Recomendaciones
+
+1. Añadir un asistente interactivo: implementar un "wizard" que proporcione ayuda al usuario cuando sea necesario.
+2. Ampliar la funcionalidad: Incluir más pantallas que mejoren la distribución de la información y ofrezcan más opciones.
+3. Rediseñar la estructura: Hacer la aplicación más intuitiva y accesible, especialmente para usuarios de diferentes edades.
+
+#### Incidencias
+
+
+    - Algunas funciones no fueron intuitivas, causando que los usuarios necesitaran más tiempo o ayuda para navegar.
+    - Los usuarios han echado en falta una ayuda experta. 
+    - La funcionalidad de la página parece escasa. 
+
+
+#### Valoración 
+
+    - Los usuarios valoraron positivamente la idea de la aplicación y las funciones ofrecidas, especialmente la posibilidad de seguir a sus artistas favoritos y asistir a eventos.
+    - La integración de múltiples servicios en una sola plataforma fue bien recibida.
+    - Consistencia en el diseño. 
 
 
 
+#### Recomendaciones y propuesta de mejoras: 
+
+    - Añadir un wizard que proporcione ayuda al usuario si fuera necesaria. 
+    - Añadir más pantallas que amplien la funcionalidad de la aplicación y ayude a distribuir mejor la información. 
+    - Rediseñar la estructura de la aplicación para hacerla más intuitiva y accesible, especialmente para usuarios jóvenes y mayores.
+
+
+#### Valoración de la prueba de usabilidad (self-assesment)
+
+Las técnicas aplicadas fueron útiles para detectar errores ocultos y fallos de usabilidad en la aplicación del club de rap. Las pruebas con usuarios reales proporcionaron información valiosa que de otro modo no se habría identificado, y los resultados de SUS y eyetracking ofrecieron una visión clara de las áreas que necesitan mejoras.
+
+
+>>> Como estudiantes, la evaluación de la aplicación del club de rap nos ha permitido entender en profundidad la importancia de la experiencia del usuario y cómo pequeños detalles en la implementación pueden marcar una gran diferencia en la satisfacción del usuario. Las recomendaciones propuestas, como añadir un asistente interactivo y rediseñar la estructura de la aplicación, se basan en hallazgos concretos y estamos convencidos de que, si se implementan, elevarán significativamente la calidad y usabilidad de la aplicación. 
 
 
 5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
@@ -304,16 +391,12 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 >> con los resultados del A/B testing, de eye tracking y del usability report:
 >>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
 
+>>> La realización de esta práctica de usabilidad ha sido una experiencia positiva y un buen broche para finalizar las prácticas de la asignatura. Utilizando el A/B testing, eyetracking y System Usability Scale (SUS), pudimos identificar tanto las fortalezas como las debilidades de nuestra aplicación y de la aplicación del club de rap. El A/B testing dejó entreveer cuáles son las fortalezas de un diseño de las que el otro carece, y viceversa. El eyetracking mostró que ciertas funciones no intuitivas causaban desorientación, indicando áreas pueden necesitar un rediseño. Por último, el SUS cuantificó la satisfacción del usuario, destacando la necesidad de mejoras para alcanzar una óptima usabilidad.
 
 
+# Conclusión final / Valoración de las prácticas
 
-
-
-## Conclusión final / Valoración de las prácticas
-
-
->>> (90-150 palabras) Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
+>>> La realización de estas prácticas de UX ha sido una experiencia muy positiva. Desde la investigación del usuario hasta la evaluación final, hemos adquirido una comprensión profunda de las necesidades y comportamientos de nuestros usuarios. Utilizando herramientas como el Scope Canvas, wireframes y mockups, pudimos iterar y refinar nuestras propuestas de diseño de manera efectiva. La implementación de una página de inicio atractiva y guías de diseño aseguró una experiencia coherente. Las evaluaciones con A/B testing, eyetracking y el cuestionario SUS nos proporcionaron datos valiosos para identificar áreas de mejora. En conclusión, valoramos positivamente los resultados obtenidos y la metodología empleada, que nos ha preparado para futuros proyectos centrados en el usuario.
 
 
 
