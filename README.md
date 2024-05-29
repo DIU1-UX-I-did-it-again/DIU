@@ -299,8 +299,6 @@ https://github.com/DIU1/DIU1.ChanguitosSaltarines
 
 ## 1 DESCRIPCIÓN DEL WEBSITE
 
-[Incluir un breve resumen el propósito de la App]
-
 El principal objetivo de la aplicación es conseguir una comunidad de personas aficcionadas al rap, es decir, un club de rap. Esta aplicación ofrece eventos a los que los usuarios pueden asistir. Además ofrece apartados de artistas, música, cursos y estudios para reservar. 
 
 
@@ -387,9 +385,7 @@ Las técnicas aplicadas fueron útiles para detectar errores ocultos y fallos de
 ----
 
 
->> recupera el usability report de tu práctica (que es el caso B de los asignados a otros grupos) 
->> con los resultados del A/B testing, de eye tracking y del usability report:
->>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
+
 
 >>> La realización de esta práctica de usabilidad ha sido una experiencia positiva y un buen broche para finalizar las prácticas de la asignatura. Utilizando el A/B testing, eyetracking y System Usability Scale (SUS), pudimos identificar tanto las fortalezas como las debilidades de nuestra aplicación y de la aplicación del club de rap. El A/B testing dejó entreveer cuáles son las fortalezas de un diseño de las que el otro carece, y viceversa. El eyetracking mostró que ciertas funciones no intuitivas causaban desorientación, indicando áreas pueden necesitar un rediseño. Por último, el SUS cuantificó la satisfacción del usuario, destacando la necesidad de mejoras para alcanzar una óptima usabilidad.
 

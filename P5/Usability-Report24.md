@@ -1,7 +1,5 @@
 # Usability Report
 
-
-
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF017nhV-TFmNER2OM8UbXtdN6xwAKBYrv0i6onNfKu6Yn0BV0RK6aiOroeXl73LSY-B0&usqp=CAU" alt="usability Download png" style="zoom:50%;" />
 
 #### Evaluación de usabilidad del proyecto 
@@ -10,16 +8,8 @@
 
 ### (28/05/2024)
 
-
-
-
-
-[img Proyecto]
-
 [Enlace a GITHUB del proyecto]
 https://github.com/DIU1/DIU1.ChanguitosSaltarines
-
-
 
 
 ### Realizado por:
@@ -27,22 +17,12 @@ https://github.com/DIU1/DIU1.ChanguitosSaltarines
 [Informe realizado por Equipo UX!I-did-it-again]
 
 
-
-
 ## 1 DESCRIPCIÓN DEL WEBSITE
-
-[Incluir un breve resumen el propósito de la App]
 
 El principal objetivo de la aplicación es conseguir una comunidad de personas aficcionadas al rap, es decir, un club de rap. Esta aplicación ofrece eventos a los que los usuarios pueden asistir. Además ofrece apartados de artistas, música, cursos y estudios para reservar. 
 
 
-
 ## 2 RESUMEN EJECUTIVO
-
-
-[ Breve descripción de lo que contiene el documento y Resumen conciso de problemas detectados ]
-
-
 
 Este documento contiene una evaluación de la usabilidad de la aplicación del club de rap. Se resumen los problemas detectados y se proponen mejoras para optimizar la experiencia del usuario. Los principales problemas identificados incluyen la complejidad de la navegación, la falta de variedad en la funcionalidad y la necesidad de soporte adicional para algunos usuarios.
 
@@ -59,28 +39,36 @@ Se aplicaron diversas técnicas de evaluación de usabilidad, incluyendo:
 
 #### Test de usuarios: Participantes
 
-[tabla, ejemplo, descripción demográfica de los participantes]
-
-INCLUIR LAS TABLAS DE USUARIOS 
-
+![Usuarios](P5/usuarios-ficticios.png)
 
 
 #### Resultados obtenidos
 
-
-
-REFERENCIAS A LOS ESTUDIOS DE HEAT MAP Y USU.
-
+Los resultados obtenidos se reflejan en el documento [P5](P5/P5.pdf), incluyendo las conclusiones de los resultados del Eye Tracking (heat maps) y los resultados de los cuestionarios SUS para cada uno de los usuarios.
 
 
 
 ## 4 CONCLUSIONES 
 
+La prueba de usabilidad ha sido reveladora y ha proporcionado información valiosa sobre la experiencia de los usuarios con la aplicación. Aunque la idea y las funciones ofrecidas han sido bien recibidas, especialmente la posibilidad de seguir a artistas favoritos y asistir a eventos, se han identificado varias áreas que requieren mejoras.
 
 
-(qué podemos extraer de conclusion con las pruebas de usabilidad efectuadas)
+## Aspectos positivos:
 
+1. La integración de múltiples servicios en una sola plataforma ha sido muy apreciada.
+2. La consistencia en el diseño ha sido destacada positivamente.
 
+## Áreas a mejorar:
+
+1. Algunas funciones no fueron intuitivas, lo que hizo que los usuarios necesitaran más tiempo o ayuda para navegar.
+2. Se percibe la falta de ayuda experta.
+3. La funcionalidad de la página parece escasa.
+
+## Recomendaciones
+
+1. Añadir un asistente interactivo: implementar un "wizard" que proporcione ayuda al usuario cuando sea necesario.
+2. Ampliar la funcionalidad: Incluir más pantallas que mejoren la distribución de la información y ofrezcan más opciones.
+3. Rediseñar la estructura: Hacer la aplicación más intuitiva y accesible, especialmente para usuarios de diferentes edades.
 
 #### Incidencias
 
@@ -108,3 +96,20 @@ REFERENCIAS A LOS ESTUDIOS DE HEAT MAP Y USU.
 #### Valoración de la prueba de usabilidad (self-assesment)
 
 Las técnicas aplicadas fueron útiles para detectar errores ocultos y fallos de usabilidad en la aplicación del club de rap. Las pruebas con usuarios reales proporcionaron información valiosa que de otro modo no se habría identificado, y los resultados de SUS y eyetracking ofrecieron una visión clara de las áreas que necesitan mejoras.
+
+
+>>> Como estudiantes, la evaluación de la aplicación del club de rap nos ha permitido entender en profundidad la importancia de la experiencia del usuario y cómo pequeños detalles en la implementación pueden marcar una gran diferencia en la satisfacción del usuario. Las recomendaciones propuestas, como añadir un asistente interactivo y rediseñar la estructura de la aplicación, se basan en hallazgos concretos y estamos convencidos de que, si se implementan, elevarán significativamente la calidad y usabilidad de la aplicación. 
+
+
+5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
+----
+
+
+
+
+>>> La realización de esta práctica de usabilidad ha sido una experiencia positiva y un buen broche para finalizar las prácticas de la asignatura. Utilizando el A/B testing, eyetracking y System Usability Scale (SUS), pudimos identificar tanto las fortalezas como las debilidades de nuestra aplicación y de la aplicación del club de rap. El A/B testing dejó entreveer cuáles son las fortalezas de un diseño de las que el otro carece, y viceversa. El eyetracking mostró que ciertas funciones no intuitivas causaban desorientación, indicando áreas pueden necesitar un rediseño. Por último, el SUS cuantificó la satisfacción del usuario, destacando la necesidad de mejoras para alcanzar una óptima usabilidad.
+
+
+# Conclusión final / Valoración de las prácticas
+
+>>> La realización de estas prácticas de UX ha sido una experiencia muy positiva. Desde la investigación del usuario hasta la evaluación final, hemos adquirido una comprensión profunda de las necesidades y comportamientos de nuestros usuarios. Utilizando herramientas como el Scope Canvas, wireframes y mockups, pudimos iterar y refinar nuestras propuestas de diseño de manera efectiva. La implementación de una página de inicio atractiva y guías de diseño aseguró una experiencia coherente. Las evaluaciones con A/B testing, eyetracking y el cuestionario SUS nos proporcionaron datos valiosos para identificar áreas de mejora. En conclusión, valoramos positivamente los resultados obtenidos y la metodología empleada, que nos ha preparado para futuros proyectos centrados en el usuario.
